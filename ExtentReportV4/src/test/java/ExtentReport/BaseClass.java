@@ -46,7 +46,7 @@ public class BaseClass {
 	
 	@AfterClass
 	public void WindUp() {
-		
+		//closing the extent reports
 		extent.flush();
 		
 	}
