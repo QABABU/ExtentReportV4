@@ -2,20 +2,20 @@
 <testng-results skipped="1" failed="1" ignored="0" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="46020" started-at="2019-01-26T07:12:33Z" finished-at="2019-01-26T07:13:19Z">
+  <suite name="Default suite" duration-ms="53477" started-at="2019-01-27T03:13:07Z" finished-at="2019-01-27T03:14:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="46020" started-at="2019-01-26T07:12:33Z" finished-at="2019-01-26T07:13:19Z">
+    <test name="Default test" duration-ms="53477" started-at="2019-01-27T03:13:07Z" finished-at="2019-01-27T03:14:00Z">
       <class name="ExtentReport.extentReportDemoTests">
-        <test-method status="PASS" signature="Initialization()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="Initialization" is-config="true" duration-ms="562" started-at="2019-01-26T12:42:33Z" finished-at="2019-01-26T12:42:34Z">
+        <test-method status="PASS" signature="Initialization()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="Initialization" is-config="true" duration-ms="1250" started-at="2019-01-27T08:43:07Z" finished-at="2019-01-27T08:43:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialization -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="9430" started-at="2019-01-26T12:42:34Z" finished-at="2019-01-26T12:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="16318" started-at="2019-01-27T08:43:08Z" finished-at="2019-01-27T08:43:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="failTest()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="failTest" duration-ms="45" started-at="2019-01-26T12:42:43Z" finished-at="2019-01-26T12:42:43Z">
+        <test-method status="FAIL" signature="failTest()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="failTest" duration-ms="38" started-at="2019-01-27T08:43:24Z" finished-at="2019-01-27T08:43:24Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [QABABU] but found [QA BABU]]]>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failTest -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="1462" started-at="2019-01-26T12:42:43Z" finished-at="2019-01-26T12:42:45Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="1610" started-at="2019-01-27T08:43:24Z" finished-at="2019-01-27T08:43:26Z">
           <params>
             <param index="0">
               <value>
@@ -71,15 +71,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="8075" started-at="2019-01-26T12:42:45Z" finished-at="2019-01-26T12:42:53Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="7852" started-at="2019-01-27T08:43:26Z" finished-at="2019-01-27T08:43:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="navigateToGmail()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="navigateToGmail" duration-ms="6817" started-at="2019-01-26T12:42:53Z" finished-at="2019-01-26T12:43:00Z">
+        <test-method status="PASS" signature="navigateToGmail()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="navigateToGmail" duration-ms="6846" started-at="2019-01-27T08:43:34Z" finished-at="2019-01-27T08:43:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToGmail -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="705" started-at="2019-01-26T12:43:00Z" finished-at="2019-01-26T12:43:00Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="680" started-at="2019-01-27T08:43:41Z" finished-at="2019-01-27T08:43:41Z">
           <params>
             <param index="0">
               <value>
@@ -90,11 +90,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="8092" started-at="2019-01-26T12:43:00Z" finished-at="2019-01-26T12:43:08Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="7435" started-at="2019-01-27T08:43:41Z" finished-at="2019-01-27T08:43:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="skipTest()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="skipTest" duration-ms="5" started-at="2019-01-26T12:43:08Z" finished-at="2019-01-26T12:43:09Z">
+        <test-method status="SKIP" signature="skipTest()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="skipTest" duration-ms="5" started-at="2019-01-27T08:43:49Z" finished-at="2019-01-27T08:43:49Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[This test will be skipped]]>
@@ -133,7 +133,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- skipTest -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="637" started-at="2019-01-26T12:43:09Z" finished-at="2019-01-26T12:43:09Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="1232" started-at="2019-01-27T08:43:49Z" finished-at="2019-01-27T08:43:50Z">
           <params>
             <param index="0">
               <value>
@@ -144,15 +144,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="7921" started-at="2019-01-26T12:43:09Z" finished-at="2019-01-26T12:43:17Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="setUp" is-config="true" duration-ms="7129" started-at="2019-01-27T08:43:50Z" finished-at="2019-01-27T08:43:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="verifyTitle" duration-ms="111" started-at="2019-01-26T12:43:17Z" finished-at="2019-01-26T12:43:17Z">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="verifyTitle" duration-ms="36" started-at="2019-01-27T08:43:57Z" finished-at="2019-01-27T08:43:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="722" started-at="2019-01-26T12:43:17Z" finished-at="2019-01-26T12:43:18Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="tearDown" is-config="true" duration-ms="692" started-at="2019-01-27T08:43:57Z" finished-at="2019-01-27T08:43:58Z">
           <params>
             <param index="0">
               <value>
@@ -163,7 +163,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="WindUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="WindUp" is-config="true" duration-ms="1333" started-at="2019-01-26T12:43:18Z" finished-at="2019-01-26T12:43:19Z">
+        <test-method status="PASS" signature="WindUp()[pri:0, instance:ExtentReport.extentReportDemoTests@475530b9]" name="WindUp" is-config="true" duration-ms="2201" started-at="2019-01-27T08:43:58Z" finished-at="2019-01-27T08:44:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WindUp -->
