@@ -25,7 +25,7 @@ public class BaseClass {
 	
 	@BeforeClass
 	public void Initialization() {
-		
+		//report file
 		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")+"\\Reports\\ExtentReport.html");
 		
 		extent = new ExtentReports();
