@@ -28,6 +28,8 @@ public class BaseClass {
 		//report file
 		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")+"\\Reports\\ExtentReport.html");
 		
+		System.out.println(htmlReporter);
+		
 		extent = new ExtentReports();
 		
 		extent.attachReporter(htmlReporter);
